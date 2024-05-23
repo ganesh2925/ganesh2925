@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganesh2925/Portfolio_Responsive](https://github.com/ganesh2925/Portfolio_Responsive)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, Mongodb, Angular, ReactJS**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, Sass, ReactJS, Version Control(Git) GitHub**
 
 - 📫 How to reach me **ganeshkumili18@gmail.com**
 
