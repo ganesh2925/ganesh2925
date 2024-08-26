@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganesh2925/Portfolio_Responsive](https://github.com/ganesh2925/Portfolio_Responsive)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, Sass, ReactJS, Version Control(Git) GitHub**
+- 💬 Ask me about: **HTML5, CSS3, JavaScript, Bootstrap, Sass, ReactJS, Version Control(Git) GitHub**
 
-- 📫 How to reach me **<p><a href="mailto:ganeshkumili18@gmail.com">Send email</a></p>**
+- 📫 How to reach me: **<a href="mailto:ganeshkumili18@gmail.com">Send email</a>**
 
-- ⚡ Fun fact **I think I cruisy**
+- ⚡ Fun fact: **I think I am cruisy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
