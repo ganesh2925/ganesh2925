@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, Sass, ReactJS, Version Control(Git) GitHub**
 
-- 📫 How to reach me **ganeshkumili18@gmail.com**
+- 📫 How to reach me **<p><a href="mailto:ganeshkumili18@gmail.com">Send email</a></p>**
 
-- ⚡ Fun fact **I think I funny**
+- ⚡ Fun fact **I think I cruisy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
