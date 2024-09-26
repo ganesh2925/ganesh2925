@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Framework, Library's, etc.**
 
-- 👯 I’m looking to collaborate on [JPMC software engineering program](https://github.com/ganesh2925/forage-jpmc-swe-task-1)
-
 - 🤝 I’m looking for help with MEAN Stack [Cars Showcases](https://github.com/ganesh2925/MEAN-Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganesh2925/Portfolio_Responsive](https://github.com/ganesh2925/Portfolio_Responsive)
