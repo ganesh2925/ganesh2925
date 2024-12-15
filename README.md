@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh2925&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh2925" /> </p>
 
-- 🔭 I’m currently working on TNM - (The Next Move) Company [E-Commerce website](https://github.com/ganesh2925/ReactJS-Ecommerce)
+- 🔭 I’m currently working on NullClass Company
 
 - 🌱 I’m currently learning **Basics of Python, ReactJS, etc.**
 
-- 🤝 I’m looking for help with MEAN Stack [Cars Showcases](https://github.com/ganesh2925/MEAN-Project)
+- 🤝 I’m looking for help with MEAN Stack [Food Delivery Website](https://github.com/ganesh2925/Food_Delivery_Website)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ganesh2925/Portfolio_Responsive](https://github.com/ganesh2925/Portfolio_Responsive)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ganesh2925.github.io/Portfolio_Responsive/)
 
 - 💬 Ask me about: **HTML5, CSS3, JavaScript, Bootstrap, Sass, ReactJS, Version Control(Git) GitHub**
 
